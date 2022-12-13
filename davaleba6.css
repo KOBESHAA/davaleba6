@@ -1,0 +1,134 @@
+main {
+    background-color: #0122f4;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-top: 275px;
+    padding-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+} 
+* {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+.num {
+    background-color: white;
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding-left: 22px;
+}
+.numg {
+    width: 26px;
+    height: 26px;
+}
+.numtxt {
+    display: flex;
+    gap: 5px;
+}
+.mnm {
+    padding-top: 22px;
+    color: white;
+}
+.mail {
+    background-color: white;
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding-left: 22px;
+}
+.mailg {
+    width: 26px;
+    height: 26px;
+}
+.mailtxt {
+    display: flex;
+    gap: 5px;
+}
+.mailnum {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+h4 {
+    padding-top: 240px;
+    color: white;
+}
+p {
+    color: white;
+    width: 465px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.contact {
+    color: white;
+    padding-bottom: 38px;
+}
+#text {
+    height: 300px;
+    background-color:#0122f4;
+    color: white;
+}
+#email {
+    background-color: #0122f4;
+    color: white;
+}
+#number {
+    background-color: #0122f4;
+    color: white;
+}
+#username{
+    background-color: #0122f4;
+    color: white;
+}
+button {
+    width: 151px;
+    height: 55px;
+    color: black;
+    background-color: white;
+}
+.button {
+    padding-left: 315px;
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+footer {
+    background-color: #0122f4;
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    height: 60px;
+}
+.main-footer {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.rightft {
+    display: flex;
+    padding-right: 170px;
+    gap: 30px;
+}
+.guli {
+
+}
+.damzadebulia {
+    display: flex;
+    gap: 10px;
+}
+.ufleba {
+    padding-left: 240px;
+}
+span {
+    color: white;
+}
+#webi {
+    height: 25px;
+}
